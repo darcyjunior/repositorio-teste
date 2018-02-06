@@ -2,3 +2,4 @@ linha 1
 teste de arquivo
 opa
 adicionar uma linha
+última linha
